@@ -13,13 +13,13 @@
 					</div>
 				</div>
 				<image class="bgimg" src="/static/nssolapp/staticsources/bg.png"></image>
-				<image class="jt" src="/static/dowapp/jt.gif"></image>
+				<image class="jt" src="/static/nssolapp/staticsources/jt.gif"></image>
 				<image class="plane animated" src="../../static/nssolapp/staticsources/plane.png" data-show="fadeInRight"></image>
 				<image class="coffee animated" src="/static/nssolapp/staticsources/coffee.png" data-show="fadeInDown" data-delay="200"
 				 data-hide="fadeOut"></image>
 				<image class="ok animated" src="/static/nssolapp/staticsources/ok.png" data-show="fadeInDown" data-hide="fadeOut"
 				 data-delay="300"></image>
-				<image class="pencil animated" src="../../static/nssolapp/staticsources/pencil.png" data-show="fadeInDown"></image>
+				<image class="pencil animated" src="../../static/nssolapp/staticsources/pencil.png" data-show="fadeInLeft" data-delay="50"></image>
 			</div>
 
 
